@@ -159,7 +159,7 @@
             $Email = $row['email'];
             $Name = $row['first_name'] . " " . $row['last_name'];
             
-            if($row['isadmin'] == 1){
+            if($row['is_admin'] == 1){
                 $class = "Add";
             }
             else {
