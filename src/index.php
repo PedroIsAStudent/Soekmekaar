@@ -64,8 +64,7 @@
         '; */
         echo '<input type="search" class="search-input-2 w-input inputBar" maxlength="256" name="inputBar" placeholder="Soek n onnie…" id="search">';
     }
-?>
-<!DOCTYPE html>
+?><!DOCTYPE html>
 <html data-wf-page="645e74d4cb54f08bbe2f2bc2" data-wf-site="645e74d4cb54f08bbe2f2bbe">
 <head>
     <meta charset="utf-8">

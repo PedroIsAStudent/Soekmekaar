@@ -22,9 +22,7 @@
     if(isset($_GET['switch'])){
         $switch = $_GET['switch'];
     }
-?>
-
-<script>
+?><script>
     const message = "<?php echo $message; ?>";
     if(message != ""){
         window.alert(message);
