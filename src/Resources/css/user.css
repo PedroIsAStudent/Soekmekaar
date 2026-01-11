@@ -1,0 +1,91 @@
+
+.spreadsheet-heading {
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0);
+  justify-content: center;
+  align-items: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  font-size: 30px;
+  line-height: 29px;
+  display: flex;
+}
+
+.div-block-11 {
+  height: 0;
+  border: 1px solid #000;
+}
+
+.button-11 {
+  width: 100px;
+  letter-spacing: 1px;
+  justify-content: center;
+  align-self: center;
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  font-size: 14px;
+  display: flex;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, .2);
+}
+
+.div-block-12 {
+  border: 2px solid #666464;
+  border-radius: 10px;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: stretch;
+  margin-bottom: 44px;
+  padding: 27px 17px 40px;
+  display: flex;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, .2);
+}
+
+.grid-user {
+  grid-column-gap: 0px;
+  grid-row-gap: 14px;
+  grid-template-rows: auto auto auto auto auto auto;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  align-self: center;
+}
+
+.grid-user.b {
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.heading-13 {
+  justify-content: center;
+  margin-top: 0;
+  margin-bottom: 29px;
+  font-size: 38px;
+  text-decoration: underline;
+  display: flex;
+}
+
+.container-12 {
+  background-color: #fff;
+  padding: 19px;
+}
+
+.block-spreadsheet {
+  height: 50px;
+  background-color: #eee;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+#w-node-d962286c-ba3b-ac10-5114-ca938ed5bb6f-2af23a71 {
+  grid-area: span 1 / span 3 / span 1 / span 3;
+  align-self: stretch;
+  justify-self: stretch;
+}
+
+.email-input {
+    border: none;
+    background: #eee;
+}

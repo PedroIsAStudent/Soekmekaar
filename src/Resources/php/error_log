@@ -1,0 +1,297 @@
+[05-Jul-2023 18:25:05 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 6
+[05-Jul-2023 18:25:05 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 8
+[05-Jul-2023 18:25:05 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 11
+[07-Jul-2023 17:42:27 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 6
+[07-Jul-2023 17:42:27 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 8
+[07-Jul-2023 17:42:27 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 11
+[08-Jul-2023 06:03:28 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 6
+[08-Jul-2023 06:03:28 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 8
+[08-Jul-2023 06:03:28 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 11
+[10-Jul-2023 15:43:08 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 6
+[10-Jul-2023 15:43:08 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 8
+[10-Jul-2023 15:43:08 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 11
+[14-Jul-2023 18:16:45 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 6
+[14-Jul-2023 18:16:45 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 8
+[14-Jul-2023 18:16:45 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 11
+[14-Jul-2023 18:17:05 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 6
+[14-Jul-2023 18:17:05 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 8
+[14-Jul-2023 18:17:05 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 11
+[14-Jul-2023 18:17:11 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 6
+[14-Jul-2023 18:17:11 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 8
+[14-Jul-2023 18:17:11 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 11
+[14-Jul-2023 18:17:18 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 6
+[14-Jul-2023 18:17:18 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 8
+[14-Jul-2023 18:17:18 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 11
+[14-Jul-2023 18:17:27 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 6
+[14-Jul-2023 18:17:27 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 8
+[14-Jul-2023 18:17:27 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 11
+[14-Jul-2023 18:17:35 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 6
+[14-Jul-2023 18:17:35 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 8
+[14-Jul-2023 18:17:35 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 11
+[14-Jul-2023 18:18:01 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 6
+[14-Jul-2023 18:18:01 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 8
+[14-Jul-2023 18:18:01 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 11
+[14-Jul-2023 18:23:29 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 6
+[14-Jul-2023 18:23:29 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 8
+[14-Jul-2023 18:23:29 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 11
+[14-Jul-2023 18:23:40 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 6
+[14-Jul-2023 18:23:40 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 8
+[14-Jul-2023 18:23:40 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/schoolhelp.co.za/soekmekaar/function.php on line 11
+[16-Jul-2023 17:36:52 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[16-Jul-2023 17:36:52 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[16-Jul-2023 17:36:52 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[16-Jul-2023 17:37:06 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[16-Jul-2023 17:37:06 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[16-Jul-2023 17:37:06 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[18-Jul-2023 14:07:34 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[18-Jul-2023 14:07:34 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[18-Jul-2023 14:07:34 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[30-Jul-2023 14:12:34 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[30-Jul-2023 14:12:34 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[30-Jul-2023 14:12:34 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[01-Aug-2023 08:11:18 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[01-Aug-2023 08:11:18 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[01-Aug-2023 08:11:18 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[01-Aug-2023 08:38:22 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[01-Aug-2023 08:38:22 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[01-Aug-2023 08:38:22 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[03-Aug-2023 12:23:07 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[03-Aug-2023 12:23:07 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[03-Aug-2023 12:23:07 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[12-Aug-2023 16:40:27 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[12-Aug-2023 16:40:27 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[12-Aug-2023 16:40:27 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[12-Aug-2023 16:40:46 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[12-Aug-2023 16:40:46 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[12-Aug-2023 16:40:46 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[12-Aug-2023 19:09:57 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[12-Aug-2023 19:09:57 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[12-Aug-2023 19:09:57 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[12-Aug-2023 19:10:08 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[12-Aug-2023 19:10:08 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[12-Aug-2023 19:10:08 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[30-Aug-2023 12:41:15 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[30-Aug-2023 12:41:15 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[30-Aug-2023 12:41:15 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[05-Sep-2023 16:31:40 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[05-Sep-2023 16:31:40 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[05-Sep-2023 16:31:40 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[21-Sep-2023 11:48:14 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[21-Sep-2023 11:48:14 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[21-Sep-2023 11:48:14 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[22-Sep-2023 08:49:55 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[22-Sep-2023 08:49:55 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[22-Sep-2023 08:49:55 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[22-Sep-2023 08:50:38 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[22-Sep-2023 08:50:38 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[22-Sep-2023 08:50:38 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[22-Sep-2023 08:52:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/gmsw8gubqbmo/public_html/soekmekaar/Resources/php/userSignup.php on line 13
+[22-Sep-2023 08:52:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/gmsw8gubqbmo/public_html/soekmekaar/Resources/php/userSignup.php on line 14
+[22-Sep-2023 08:52:22 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[22-Sep-2023 08:52:22 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[22-Sep-2023 08:52:22 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[22-Sep-2023 08:56:52 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[22-Sep-2023 08:56:52 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[22-Sep-2023 08:56:52 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[22-Sep-2023 08:57:24 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[22-Sep-2023 08:57:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[22-Sep-2023 08:57:24 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[22-Sep-2023 08:57:48 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[22-Sep-2023 08:57:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[22-Sep-2023 08:57:48 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[22-Sep-2023 08:58:25 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[22-Sep-2023 08:58:25 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[22-Sep-2023 08:58:25 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[22-Sep-2023 08:58:47 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[22-Sep-2023 08:58:47 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[22-Sep-2023 08:58:47 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[22-Sep-2023 08:58:55 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[22-Sep-2023 08:58:55 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[22-Sep-2023 08:58:55 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[25-Sep-2023 16:10:41 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[25-Sep-2023 16:10:41 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[25-Sep-2023 16:10:41 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[25-Sep-2023 18:43:55 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[25-Sep-2023 18:43:55 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[25-Sep-2023 18:43:55 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[26-Sep-2023 09:03:05 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[26-Sep-2023 09:03:05 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[26-Sep-2023 09:03:05 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[26-Sep-2023 15:26:54 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[26-Sep-2023 15:26:54 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[26-Sep-2023 15:26:54 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[26-Sep-2023 19:30:13 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[26-Sep-2023 19:30:13 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[26-Sep-2023 19:30:13 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[27-Sep-2023 06:23:05 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[27-Sep-2023 06:23:05 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[27-Sep-2023 06:23:05 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[27-Sep-2023 06:24:01 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[27-Sep-2023 06:24:01 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[27-Sep-2023 06:24:01 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[27-Sep-2023 12:41:51 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[27-Sep-2023 12:41:51 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[27-Sep-2023 12:41:51 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[27-Sep-2023 15:05:31 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[27-Sep-2023 15:05:31 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[27-Sep-2023 15:05:31 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[27-Sep-2023 17:57:29 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[27-Sep-2023 17:57:29 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[27-Sep-2023 17:57:29 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[28-Sep-2023 10:44:34 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[28-Sep-2023 10:44:34 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[28-Sep-2023 10:44:34 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[28-Sep-2023 12:31:33 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[28-Sep-2023 12:31:33 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[28-Sep-2023 12:31:33 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[03-Oct-2023 06:18:07 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[03-Oct-2023 06:18:07 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[03-Oct-2023 06:18:07 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[03-Oct-2023 12:03:44 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[03-Oct-2023 12:03:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[03-Oct-2023 12:03:44 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[03-Oct-2023 15:49:10 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[03-Oct-2023 15:49:10 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[03-Oct-2023 15:49:10 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[03-Oct-2023 19:23:27 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[03-Oct-2023 19:23:27 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[03-Oct-2023 19:23:27 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[04-Oct-2023 07:14:27 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[04-Oct-2023 07:14:27 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[04-Oct-2023 07:14:27 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[04-Oct-2023 07:14:28 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[04-Oct-2023 07:14:28 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[04-Oct-2023 07:14:28 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[04-Oct-2023 09:15:11 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[04-Oct-2023 09:15:11 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[04-Oct-2023 09:15:11 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[04-Oct-2023 09:15:12 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[04-Oct-2023 09:15:12 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[04-Oct-2023 09:15:12 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[04-Oct-2023 09:38:10 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[04-Oct-2023 09:38:10 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[04-Oct-2023 09:38:10 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[04-Oct-2023 17:57:37 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[04-Oct-2023 17:57:37 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[04-Oct-2023 17:57:37 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[05-Oct-2023 08:40:52 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[05-Oct-2023 08:40:52 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[05-Oct-2023 08:40:52 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[05-Oct-2023 10:48:11 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[05-Oct-2023 10:48:11 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[05-Oct-2023 10:48:11 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[05-Oct-2023 10:48:14 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[05-Oct-2023 10:48:14 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[05-Oct-2023 10:48:14 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[06-Oct-2023 07:37:43 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[06-Oct-2023 07:37:43 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[06-Oct-2023 07:37:43 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[06-Oct-2023 17:19:04 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[06-Oct-2023 17:19:04 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[06-Oct-2023 17:19:04 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[06-Oct-2023 17:33:31 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[06-Oct-2023 17:33:31 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[06-Oct-2023 17:33:31 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[06-Oct-2023 17:33:44 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[06-Oct-2023 17:33:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[06-Oct-2023 17:33:44 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[06-Oct-2023 17:34:29 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[06-Oct-2023 17:34:29 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[06-Oct-2023 17:34:29 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[06-Oct-2023 17:35:09 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[06-Oct-2023 17:35:09 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[06-Oct-2023 17:35:09 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[09-Oct-2023 18:27:06 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[09-Oct-2023 18:27:06 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[09-Oct-2023 18:27:06 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[09-Oct-2023 19:17:27 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[09-Oct-2023 19:17:27 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[09-Oct-2023 19:17:27 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[10-Oct-2023 11:01:25 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[10-Oct-2023 11:01:25 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[10-Oct-2023 11:01:25 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[10-Oct-2023 11:02:36 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[10-Oct-2023 11:02:36 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[10-Oct-2023 11:02:36 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[02-Nov-2023 10:59:10 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[02-Nov-2023 10:59:10 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[02-Nov-2023 10:59:10 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[13-Nov-2023 19:19:45 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[13-Nov-2023 19:19:45 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[13-Nov-2023 19:19:45 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[21-Nov-2023 06:18:38 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 6
+[21-Nov-2023 06:18:38 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 8
+[21-Nov-2023 06:18:38 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/gmsw8gubqbmo/public_html/soekmekaar/function.php on line 11
+[05-Dec-2023 13:08:24 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/xhit2h0q86jy/public_html/soekmekaar/function.php on line 6
+[05-Dec-2023 13:08:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xhit2h0q86jy/public_html/soekmekaar/function.php on line 8
+[05-Dec-2023 13:08:24 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/xhit2h0q86jy/public_html/soekmekaar/function.php on line 11
+[10-Jan-2024 08:35:12 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/xhit2h0q86jy/public_html/soekmekaar/function.php on line 6
+[10-Jan-2024 08:35:12 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xhit2h0q86jy/public_html/soekmekaar/function.php on line 8
+[10-Jan-2024 08:35:12 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/xhit2h0q86jy/public_html/soekmekaar/function.php on line 11
+[10-Jan-2024 09:23:27 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/xhit2h0q86jy/public_html/soekmekaar/function.php on line 6
+[10-Jan-2024 09:23:27 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xhit2h0q86jy/public_html/soekmekaar/function.php on line 8
+[10-Jan-2024 09:23:27 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/xhit2h0q86jy/public_html/soekmekaar/function.php on line 11
+[10-Jan-2024 09:27:50 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/xhit2h0q86jy/public_html/soekmekaar/function.php on line 6
+[10-Jan-2024 09:27:50 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xhit2h0q86jy/public_html/soekmekaar/function.php on line 8
+[10-Jan-2024 09:27:50 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/xhit2h0q86jy/public_html/soekmekaar/function.php on line 11
+[10-Jan-2024 11:47:00 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/xhit2h0q86jy/public_html/soekmekaar/function.php on line 6
+[10-Jan-2024 11:47:00 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xhit2h0q86jy/public_html/soekmekaar/function.php on line 8
+[10-Jan-2024 11:47:00 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/xhit2h0q86jy/public_html/soekmekaar/function.php on line 11
+[10-Jan-2024 11:57:29 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/xhit2h0q86jy/public_html/soekmekaar/function.php on line 6
+[10-Jan-2024 11:57:29 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xhit2h0q86jy/public_html/soekmekaar/function.php on line 8
+[10-Jan-2024 11:57:29 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/xhit2h0q86jy/public_html/soekmekaar/function.php on line 11
+[10-Jan-2024 11:57:44 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/xhit2h0q86jy/public_html/soekmekaar/function.php on line 6
+[10-Jan-2024 11:57:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xhit2h0q86jy/public_html/soekmekaar/function.php on line 8
+[10-Jan-2024 11:57:44 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/xhit2h0q86jy/public_html/soekmekaar/function.php on line 11
+[10-Jan-2024 11:58:22 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/xhit2h0q86jy/public_html/soekmekaar/function.php on line 6
+[10-Jan-2024 11:58:22 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xhit2h0q86jy/public_html/soekmekaar/function.php on line 8
+[10-Jan-2024 11:58:22 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/xhit2h0q86jy/public_html/soekmekaar/function.php on line 11
+[10-Jan-2024 15:38:01 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/xhit2h0q86jy/public_html/soekmekaar/function.php on line 6
+[10-Jan-2024 15:38:01 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xhit2h0q86jy/public_html/soekmekaar/function.php on line 8
+[10-Jan-2024 15:38:01 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/xhit2h0q86jy/public_html/soekmekaar/function.php on line 11
+[12-Jan-2024 12:49:45 UTC] PHP Warning:  file(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/xhit2h0q86jy/public_html/soekmekaar/function.php on line 6
+[12-Jan-2024 12:49:45 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xhit2h0q86jy/public_html/soekmekaar/function.php on line 8
+[12-Jan-2024 12:49:45 UTC] PHP Warning:  file_put_contents(Resources/txt/viewers.txt): failed to open stream: No such file or directory in /home/xhit2h0q86jy/public_html/soekmekaar/function.php on line 11
+[29-Jan-2024 19:54:47 UTC] PHP Notice:  Undefined index: message in /home/xhit2h0q86jy/public_html/soekmekaar/Resources/php/unsuccessful-page.php on line 24
+[11-Mar-2024 07:58:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/xhit2h0q86jy/public_html/soekmekaar/Resources/php/userSignup.php on line 13
+[11-Mar-2024 07:58:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/xhit2h0q86jy/public_html/soekmekaar/Resources/php/userSignup.php on line 14
+[11-Mar-2024 07:59:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/xhit2h0q86jy/public_html/soekmekaar/Resources/php/userSignup.php on line 13
+[11-Mar-2024 07:59:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/xhit2h0q86jy/public_html/soekmekaar/Resources/php/userSignup.php on line 14
+[30-Mar-2024 20:48:41 UTC] PHP Notice:  Undefined index: message in /home/xhit2h0q86jy/public_html/soekmekaar/Resources/php/unsuccessful-page.php on line 24
+[09-Apr-2024 22:10:06 UTC] PHP Notice:  Undefined index: message in /home/xhit2h0q86jy/public_html/soekmekaar/Resources/php/unsuccessful-page.php on line 24
+[06-May-2024 12:46:09 UTC] PHP Notice:  Undefined index: message in /home/xhit2h0q86jy/public_html/soekmekaar/Resources/php/unsuccessful-page.php on line 24
+[28-May-2024 17:29:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/xhit2h0q86jy/public_html/soekmekaar/Resources/php/userSignup.php on line 13
+[28-May-2024 17:29:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/xhit2h0q86jy/public_html/soekmekaar/Resources/php/userSignup.php on line 14
+[28-May-2024 17:29:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/xhit2h0q86jy/public_html/soekmekaar/Resources/php/userSignup.php on line 13
+[28-May-2024 17:29:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/xhit2h0q86jy/public_html/soekmekaar/Resources/php/userSignup.php on line 14
+[24-Aug-2024 00:55:46 UTC] PHP Notice:  Undefined index: message in /home/xhit2h0q86jy/public_html/soekmekaar/Resources/php/unsuccessful-page.php on line 24
+[31-Oct-2024 08:50:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/xhit2h0q86jy/public_html/soekmekaar/Resources/php/userSignup.php on line 13
+[31-Oct-2024 08:50:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/xhit2h0q86jy/public_html/soekmekaar/Resources/php/userSignup.php on line 14
+[19-Nov-2024 02:26:56 UTC] PHP Warning:  Undefined array key "message" in /home/xhit2h0q86jy/public_html/soekmekaar/Resources/php/unsuccessful-page.php on line 24
+[19-Jan-2025 01:54:51 UTC] PHP Warning:  Undefined array key "message" in /home/sgwe5ijvp838/public_html/schoolhelp.co.za/soekmekaar/Resources/php/unsuccessful-page.php on line 24
+[22-Jan-2025 21:20:39 UTC] PHP Warning:  Undefined array key "message" in /home/sgwe5ijvp838/public_html/schoolhelp.co.za/soekmekaar/Resources/php/unsuccessful-page.php on line 24
+[24-Jan-2025 05:20:25 UTC] PHP Warning:  Undefined array key "message" in /home/sgwe5ijvp838/public_html/schoolhelp.co.za/soekmekaar/Resources/php/unsuccessful-page.php on line 24
+[31-Jan-2025 18:53:31 UTC] PHP Warning:  Undefined array key "message" in /home/sgwe5ijvp838/public_html/schoolhelp.co.za/soekmekaar/Resources/php/unsuccessful-page.php on line 24
+[02-Feb-2025 10:08:41 UTC] PHP Warning:  Undefined array key "message" in /home/sgwe5ijvp838/public_html/schoolhelp.co.za/soekmekaar/Resources/php/unsuccessful-page.php on line 24
+[13-Mar-2025 23:15:21 UTC] PHP Warning:  Undefined array key "message" in /home/sgwe5ijvp838/public_html/schoolhelp.co.za/soekmekaar/Resources/php/unsuccessful-page.php on line 24
+[17-Mar-2025 04:53:49 UTC] PHP Warning:  Undefined array key "message" in /home/sgwe5ijvp838/public_html/schoolhelp.co.za/soekmekaar/Resources/php/unsuccessful-page.php on line 24
+[28-Mar-2025 20:47:58 UTC] PHP Warning:  Undefined array key "message" in /home/sgwe5ijvp838/public_html/schoolhelp.co.za/soekmekaar/Resources/php/unsuccessful-page.php on line 24
+[11-Apr-2025 13:52:03 UTC] PHP Warning:  Undefined array key "message" in /home/sgwe5ijvp838/public_html/schoolhelp.co.za/soekmekaar/Resources/php/unsuccessful-page.php on line 24
+[19-Apr-2025 16:58:10 UTC] PHP Warning:  Undefined array key "message" in /home/sgwe5ijvp838/public_html/schoolhelp.co.za/soekmekaar/Resources/php/unsuccessful-page.php on line 24
+[02-May-2025 07:12:37 UTC] PHP Warning:  Undefined array key "message" in /home/sgwe5ijvp838/public_html/schoolhelp.co.za/soekmekaar/Resources/php/unsuccessful-page.php on line 24
+[16-May-2025 13:06:33 UTC] PHP Warning:  Undefined array key "message" in /home/sgwe5ijvp838/public_html/schoolhelp.co.za/soekmekaar/Resources/php/unsuccessful-page.php on line 24
+[24-May-2025 14:51:20 UTC] PHP Warning:  Undefined array key "message" in /home/sgwe5ijvp838/public_html/schoolhelp.co.za/soekmekaar/Resources/php/unsuccessful-page.php on line 24
+[12-Jun-2025 03:34:34 UTC] PHP Warning:  Undefined array key "message" in /home/sgwe5ijvp838/public_html/schoolhelp.co.za/soekmekaar/Resources/php/unsuccessful-page.php on line 24
+[17-Jun-2025 19:00:14 UTC] PHP Warning:  Undefined array key "message" in /home/sgwe5ijvp838/public_html/schoolhelp.co.za/soekmekaar/Resources/php/unsuccessful-page.php on line 24
+[25-Jun-2025 10:09:24 UTC] PHP Warning:  Undefined array key "message" in /home/sgwe5ijvp838/public_html/schoolhelp.co.za/soekmekaar/Resources/php/unsuccessful-page.php on line 24
+[24-Jul-2025 09:44:33 UTC] PHP Warning:  Undefined array key "message" in /home/sgwe5ijvp838/public_html/schoolhelp.co.za/soekmekaar/Resources/php/unsuccessful-page.php on line 24
+[08-Aug-2025 17:43:29 UTC] PHP Warning:  Undefined array key "message" in /home/sgwe5ijvp838/public_html/schoolhelp.co.za/soekmekaar/Resources/php/unsuccessful-page.php on line 24
+[12-Sep-2025 22:16:08 UTC] PHP Warning:  Undefined array key "message" in /home/sgwe5ijvp838/public_html/schoolhelp.co.za/soekmekaar/Resources/php/unsuccessful-page.php on line 24
+[17-Sep-2025 16:38:31 UTC] PHP Warning:  Undefined array key "message" in /home/sgwe5ijvp838/public_html/schoolhelp.co.za/soekmekaar/Resources/php/unsuccessful-page.php on line 24
+[17-Sep-2025 16:39:28 UTC] PHP Warning:  Undefined array key "message" in /home/sgwe5ijvp838/public_html/schoolhelp.co.za/soekmekaar/Resources/php/unsuccessful-page.php on line 24
+[17-Sep-2025 16:41:34 UTC] PHP Warning:  Undefined array key "message" in /home/sgwe5ijvp838/public_html/schoolhelp.co.za/soekmekaar/Resources/php/unsuccessful-page.php on line 24
+[27-Sep-2025 11:03:09 UTC] PHP Warning:  Undefined array key "message" in /home/sgwe5ijvp838/public_html/schoolhelp.co.za/soekmekaar/Resources/php/unsuccessful-page.php on line 24
+[03-Oct-2025 10:17:29 UTC] PHP Warning:  Undefined array key "message" in /home/sgwe5ijvp838/public_html/schoolhelp.co.za/soekmekaar/Resources/php/unsuccessful-page.php on line 24
+[10-Oct-2025 02:26:36 UTC] PHP Warning:  Undefined array key "message" in /home/sgwe5ijvp838/public_html/schoolhelp.co.za/soekmekaar/Resources/php/unsuccessful-page.php on line 24
+[04-Nov-2025 08:55:21 UTC] PHP Warning:  Undefined array key "message" in /home/sgwe5ijvp838/public_html/schoolhelp.co.za/soekmekaar/Resources/php/unsuccessful-page.php on line 24
+[06-Nov-2025 07:55:43 UTC] PHP Warning:  Undefined array key "message" in /home/sgwe5ijvp838/public_html/schoolhelp.co.za/soekmekaar/Resources/php/unsuccessful-page.php on line 24
