@@ -213,7 +213,7 @@
     
     function show_teachers(){
         $search = $_GET['search'];
-        $subject = $_GET['subject'];
+        $subject = $_GET['subject'] ?? null;
         $a = $_GET['chosen'];
         
         $sql = "";
